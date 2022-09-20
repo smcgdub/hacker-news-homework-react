@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function NewsCard({ news }) {
+export default function NewsCard(props) {
   return (
     <div className="card mb-3">
       <h5 id="post-title" class="card-header data-title mb-1">${ }</h5>
