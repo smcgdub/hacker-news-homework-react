@@ -17,6 +17,16 @@ body {
   background-color: #1a1b22;
 }
 
+.navbar-brand {
+  text-decoration: none;
+  color: #ede6e3;
+}
+
+.navbar-brand:hover {
+  text-decoration: none;
+  color: #aad922;
+}
+
 .card {
   border-radius: 40px 2px 40px 2px;
 }
