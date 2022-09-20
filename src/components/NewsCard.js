@@ -7,7 +7,7 @@ export default function NewsCard({ news }) {
       <div className="card-body">
         <p className="data-by mb-0">Date: ${ }</p>
         <p className="data-by mb-0">By: ${ }</p>
-        <p className="data-url mb-0">Link to article:<a className="post-url" href="/public/index.html" target="_blank">Click here</a></p>
+        <p className="data-url mb-0">Link to article:<a className="post-url" href="/public/index.html" target="_blank"> Click here</a></p>
       </div>
     </div>
   );

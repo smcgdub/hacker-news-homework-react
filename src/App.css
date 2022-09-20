@@ -2,37 +2,58 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+/* Global */
+* {
+  margin: 0px;
+  padding: 0px;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #1a1b22;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card {
+  border-radius: 40px 2px 40px 2px;
 }
 
-.App-link {
-  color: #61dafb;
+.card-body {
+  padding: 8px 16px;
+  border-radius: 40px 2px;
+  background-color: #262730;
+  border: 2px solid #ede6e3;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.data-title {
+  color: #262730;
+}
+
+.data-by, .data-url {
+  color: #ede6e3;
+}
+
+.post-url {
+  text-decoration: none;
+  color: #aad922;
+}
+
+.post-url:hover {
+  text-decoration: none;
+  color: #ede6e3;
+}
+
+.btn {
+  padding: 6px;
+  background-color: #aad922;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #ede6e3;
+  color: #aad922;
+  border-radius: 0px !important;
 }
