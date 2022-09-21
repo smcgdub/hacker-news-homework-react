@@ -1,6 +1,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import NewsCard from './components/NewsCard';
+import Header from './components/Header';
 
 export default function App() {
 
@@ -21,7 +22,7 @@ export default function App() {
   return (
     <div>
       <Navbar />
-      <br />
+      <Header />
       <div className="container">
         <div className="row">
           <div className="col">
