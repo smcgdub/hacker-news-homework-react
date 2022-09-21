@@ -3,8 +3,9 @@ import React from "react";
 export default function Header() {
   return (
     <div className="container">
-      {/* Page Header */}
+      {/* Horizontal Rule */}
       <hr className="text-white mt-0" />
+      {/* Page Header */}
       <div className="row">
         <div className="col-12 text-center at-item">
           <h1 className="off-white-text text-center mb-0">Welcome To Hacker News</h1>

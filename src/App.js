@@ -18,18 +18,11 @@ export default function App() {
   //   )
   // })
 
-
   return (
     <div>
       <Navbar />
       <Header />
-      <div className="container">
-        <div className="row">
-          <div className="col">
-            <NewsCard />
-          </div>
-        </div>
-      </div>
+      <NewsCard />
     </div>
   );
 }
