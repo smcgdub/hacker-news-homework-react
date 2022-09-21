@@ -210,7 +210,7 @@ You can also clone the project using Github Desktop. To do this you can do the f
 
 #### **6.2 Code** 
 
-* All of the code in the project i have written myself 
+* The flicker effect on page load code was compiled using the [Angry Tools](https://angrytools.com/css/animation/) CSS animation website 
 
 </details>
 <hr>
