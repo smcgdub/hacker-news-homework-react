@@ -100,13 +100,16 @@ This is a homework project i was given. The project was to build a React applica
 * The wireframes for the project can be seen below. There is a wireframe for desktop, tablet and mobile.
 
 #### **DESKTOP**
-![Desktop Wireframe]()
+![Desktop Wireframe](/src/assets/images/homepage-desktop-unloaded.png)
+![Desktop Wireframe](/src/assets/images/homepage-desktop-loaded.png)
 
 #### **TABLET**
-![Tablet Wireframe]()
+![Tablet Wireframe](/src/assets/images/homepage-tablet-unloaded.png)
+![Tablet Wireframe](/src/assets/images/homepage-tablet-loaded.png)
 
 #### **MOBILE**
-![Image of Navbar]()
+![Image of Navbar](/src/assets/images/homepage-mobile-unloaded.png)
+![Image of Navbar](/src/assets/images/homepage-loaded-loaded.png)
 
 </details>
 
