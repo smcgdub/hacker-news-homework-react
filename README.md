@@ -105,11 +105,11 @@ This is a homework project i was given. The project was to build a React applica
 
 #### **TABLET**
 ![Tablet Wireframe](/src/assets/images/homepage-tablet-unloaded.png)
-![Tablet Wireframe](/src/assets/images/homepage-tablet-loaded.png)
+![Tablet Wireframe](/src/assets/images/homepage-tablet-opened.png)
 
 #### **MOBILE**
-![Image of Navbar](/src/assets/images/homepage-mobile-unloaded.png)
-![Image of Navbar](/src/assets/images/homepage-loaded-loaded.png)
+![Mobile Wireframe](/src/assets/images/homepage-mobile-unloaded.png)
+![Mobile Wireframe](/src/assets/images/homepage-mobile-opened.png)
 
 </details>
 
