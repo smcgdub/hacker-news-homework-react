@@ -83,7 +83,7 @@ This is a homework project i was given. The project was to build a React applica
 
 * I decided i would use the Google fonts [Open Sans](https://fonts.google.com/specimen/Open+Sans?preview.text=Whose%20paying%20the%20bill&preview.text_type=custom). Open Sans is a humanist sans serif typeface designed by Steve Matteson. Open Sans was designed with an upright stress, open forms and a neutral, yet friendly appearance. It was optimized for print, web, and mobile interfaces, and has excellent legibility characteristics in its letterforms.
 
-![Image of how the font will look]()
+![Image of how the font will look](/src/assets/images/open-sans-font.png)
 
 #### **ICONS**
 
@@ -100,16 +100,16 @@ This is a homework project i was given. The project was to build a React applica
 * The wireframes for the project can be seen below. There is a wireframe for desktop, tablet and mobile.
 
 #### **DESKTOP**
-![Desktop Wireframe](/src/assets/images/homepage-desktop-unloaded.png)
-![Desktop Wireframe](/src/assets/images/homepage-desktop-loaded.png)
+![Desktop Wireframe](/src/assets/images/homepage-desktop-unloaded.png)<br/>
+![Desktop Wireframe](/src/assets/images/homepage-desktop-loaded.png)<br/>
 
 #### **TABLET**
-![Tablet Wireframe](/src/assets/images/homepage-tablet-unloaded.png)
-![Tablet Wireframe](/src/assets/images/homepage-tablet-opened.png)
+![Tablet Wireframe](/src/assets/images/homepage-tablet-unloaded.png)<br/>
+![Tablet Wireframe](/src/assets/images/homepage-tablet-opened.png)<br/>
 
 #### **MOBILE**
-![Mobile Wireframe](/src/assets/images/homepage-mobile-unloaded.png)
-![Mobile Wireframe](/src/assets/images/homepage-mobile-opened.png)
+![Mobile Wireframe](/src/assets/images/homepage-mobile-unloaded.png)<br/>
+![Mobile Wireframe](/src/assets/images/homepage-mobile-opened.png)<br/>
 
 </details>
 
