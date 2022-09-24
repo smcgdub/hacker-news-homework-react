@@ -222,14 +222,11 @@ You can also clone the project using Github Desktop. To do this you can do the f
 <summary><strong>6. Credits</strong></summary> 
 <br>
 
-#### **6.1 Media** 
-
-* 
-
-#### **6.2 Code** 
+#### **6.1 Code** 
 
 * The flicker effect on page load code was compiled using the [Angry Tools](https://angrytools.com/css/animation/) CSS animation website 
 
+* As i am still learning React on my current course we haven't made it as far as testing. To get a better understanding of how React testing works i used this YouTube video by Kris Foster as a guide. [Video Here](https://www.youtube.com/watch?v=ML5egqL3YFE)
 </details>
 <hr>
 
