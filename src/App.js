@@ -6,15 +6,9 @@ import data from './data'
 
 export default function App() {
 
-  // let unixTimestamp = data.time;
-  // let milliseconds = unixTimestamp * 1000;
-  // let dateObject = new Date(milliseconds);
-  // let humanDateFormat = dateObject.toLocaleString();
-
+  // Convert unix time to human readable time
   let currentTimestamp = Date.now()
-  console.log(currentTimestamp);
   let date = new Intl.DateTimeFormat('en-US', { year: 'numeric', month: '2-digit', day: '2-digit' }).format(currentTimestamp)
-  console.log(date);
 
   const news = data.map(item => {
     return (
@@ -33,7 +27,6 @@ export default function App() {
     <div>
       <Navbar />
       <Header />
-      {/* <NewsCard /> */}
       <div>
         {news}
       </div>
