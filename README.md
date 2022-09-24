@@ -123,7 +123,7 @@ The wireframes for the project can be seen below. There is a wireframe for deskt
 
 * The navbar is a simple Bootstrap navbar that is responsive and will change depending on the screen size. As this is an SPA there was no need to add extra pages to the Navbar.
 
-![Image of action buttons](assets/images/readme_images/action_buttons.png)
+![Image of the navbar](/src/assets/images/navbar.png)
 
 #### **2.2 Action Buttons**
 
@@ -186,8 +186,6 @@ To deploy the site on Github i undertook the following steps:
 7. Click save
 
 You will then receive a confirmation saying the page has been published and also be provided with the link where people can view your site.
-
-![Image of page published confirmation]()
 
 The link to view the live site can be found by clicking ([Link Here](https://github.com/smcgdub/hacker-news-homework-project-none-react))
 
