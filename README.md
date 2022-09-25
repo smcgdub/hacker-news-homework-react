@@ -36,9 +36,8 @@ This is a homework project i was given. The project was to build a React applica
 
 ### **5. Deployment**
 
-  * 5.1 Deployment 
-  * 5.2 Cloning 
-  * 5.3 Cloning Desktop
+  * 5.1 Cloning 
+  * 5.2 Cloning Desktop
 
 ### **6. Credits**
   * 6.1 Code
@@ -173,23 +172,7 @@ When the user clicks on this button it will reset the page and delete all of the
 <summary><strong>5. Deployment</strong></summary>
 <br>
 
-#### **5.1 Deployment**  
-
-To deploy the site on Github i undertook the following steps:
-
-1. Navigated to my profile page on Github
-2. Selected this project from the repositories ([Link Here](https://github.com/smcgdub/hacker-news-homework-project-none-react))
-3. Clicked on settings
-4. Click on pages which is on the left which is in the code and automation section
-5. Click where is says source and in the dropdown menu select master 
-6. Click on the next dropdown menu to the right select /(root)
-7. Click save
-
-You will then receive a confirmation saying the page has been published and also be provided with the link where people can view your site.
-
-The link to view the live site can be found by clicking ([Link Here](https://github.com/smcgdub/hacker-news-homework-project-none-react))
-
-#### **5.2 Cloning**
+#### **5.1 Cloning**  
 
 You can clone the projects repository to your local computer by following the steps below:
 
@@ -204,7 +187,7 @@ Cloning a repository using the command line
 7. In terminal type `git clone` and then paste the URL you copied earlier 
 8. Press Enter to create your local clone.
 
-#### **5.3 Cloning Desktop**
+#### **5.2 Cloning Desktop**
 You can also clone the project using Github Desktop. To do this you can do the following: 
 
 1. On github navigate to the project repository. ([Link Here](https://github.com/smcgdub/hacker-news-homework-project-none-react))
