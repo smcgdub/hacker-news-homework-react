@@ -84,7 +84,7 @@ A very simple SPA (Single Page Application) powered by the Hacker News API.
 
 ![Image of the color pallet used for the project](/src/assets/images/colour-scheme.png)
 
-#### **1.6 Wire Frames** 
+#### **1.5 Wire Frames** 
 
 The wireframes for the project can be seen below. There is a wireframe for desktop, tablet and mobile.
 
