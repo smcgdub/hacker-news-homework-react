@@ -12,9 +12,8 @@ This is a homework project i was given. The project was to build a React applica
   * 1.1 Target audience
   * 1.2 Visitor goals
   * 1.3 Business goals
-  * 1.4 User stories
-  * 1.5 Design choices
-  * 1.6 Wire frames
+  * 1.4 Design choices
+  * 1.5 Wire frames
 
 ### **2. Features**
   * 2.1 Navbar
@@ -69,12 +68,7 @@ I want to be able to come to the site and easily read the latest news.
 
 No business or monetary goals, this was a homework project i was given to complete. 
 
-#### **1.4 User Stories**
-
-As a visitor to the company website i expect/want/need
- 
-
-#### **1.5 Design choices** 
+#### **1.4 Design choices** 
 
 A very simple SPA (Single Page Application) powered by the Hacker News API.
 
@@ -83,11 +77,7 @@ A very simple SPA (Single Page Application) powered by the Hacker News API.
 * I decided i would use the Google fonts [Open Sans](https://fonts.google.com/specimen/Open+Sans?preview.text=Whose%20paying%20the%20bill&preview.text_type=custom). Open Sans is a humanist sans serif typeface designed by Steve Matteson. Open Sans was designed with an upright stress, open forms and a neutral, yet friendly appearance. It was optimized for print, web, and mobile interfaces, and has excellent legibility characteristics in its letterforms.
 
 ![Image of how the font will look](/src/assets/images/open-sans-font.png)
-
-#### **ICONS**
-
-Any icons that were used were taken from the Font Awesome website.  
-
+ 
 #### **COLORS**
 
 * The color palette for the project can be found below.<br>
@@ -174,11 +164,16 @@ When the user clicks on this button it will reset the page and delete all of the
 
 #### **5.1 Cloning**  
 
+NOTE: Before cloning or downloading this project to use you firstly must have NodeJS and npm installed on your computer. The links below will show you a quick tutorial on how to install NodeJS and npm on both windows and Mac:
+
+[How to install NodeJS and npm](https://www.youtube.com/watch?v=yM92Iuh35JY)<br/>
+[Link to NodeJS site for downloading](https://nodejs.org/en/)
+
 You can clone the projects repository to your local computer by following the steps below:
 
 Cloning a repository using the command line
 
-1. On github navigate to the project repository. ([Link Here](https://github.com/smcgdub/hacker-news-homework-project-none-react))
+1. On github navigate to the project repository. ([Link Here](https://github.com/smcgdub/hacker-news-homework-react))
 2. Click on the tab that says code 
 3. From the menu select HTTPS
 4. Click on the copy button to the right of the HTTPS url
@@ -190,11 +185,12 @@ Cloning a repository using the command line
 #### **5.2 Cloning Desktop**
 You can also clone the project using Github Desktop. To do this you can do the following: 
 
-1. On github navigate to the project repository. ([Link Here](https://github.com/smcgdub/hacker-news-homework-project-none-react))
+1. On github navigate to the project repository. ([Link Here](https://github.com/smcgdub/hacker-news-homework-react))
 2. Click on the tab that says code 
 3. Click on Download ZIP
 4. Unzip the repository after it downloads to your machine and then drag the unzipped files into your IDE.
 
+NOTE: When you have this project, NodeJS and npm installed on your computer to run the project go to the terminal and type in `npm start` and the project will run on your local machine.
 </details>
 
 <hr>
@@ -207,7 +203,7 @@ You can also clone the project using Github Desktop. To do this you can do the f
 
 * The flicker effect on page load code was compiled using the [Angry Tools](https://angrytools.com/css/animation/) CSS animation website 
 
-* As i am still learning React on my current course we haven't made it as far as testing. To get a better understanding of how React testing works i used this YouTube video by Kris Foster as a guide. [Video Here](https://www.youtube.com/watch?v=ML5egqL3YFE)
+* As i am still learning React on my current course we haven't made it as far as testing. To get a better understanding of how React testing works I used this YouTube video by Kris Foster as a guide. [Video Here](https://www.youtube.com/watch?v=ML5egqL3YFE)
 </details>
 <hr>
 
