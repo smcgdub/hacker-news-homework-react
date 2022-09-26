@@ -6,6 +6,11 @@
 
 This is a homework project i was given. The project was to build a React application using the Hacker News API where users can come to the site and get the latest news. 
 
+## **Note For Assessor**
+I am still learning react and on the course i am taking i am only as far as learning about props and importing data from an internal data.js file. As i didn't finish this project with the api feed i did create a data.js file in the `src` folder and populate it with some data taken from the Hacker News API individual stories. 
+
+The reason i did this was to highlight where i am up to in my react learning and to show i understand how components are generated and populated with individual sets of data for each Newscard that is generated.
+
 ## **Table of contents** 
 
 ### **1. User Experience (UX)**
