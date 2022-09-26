@@ -33,7 +33,7 @@ This is a homework project i was given. The project was to build a React applica
 ### **4. Testing**
   * 4.1 See [testing.md](testing.md) document 
 
-### **5. Deployment**
+### **5. Cloning**
 
   * 5.1 Cloning 
   * 5.2 Cloning Desktop

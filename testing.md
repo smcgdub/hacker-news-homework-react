@@ -49,12 +49,9 @@ These tests can be ran by opening the terminal and inputting the command `npm te
 
 **2.1 Manual testing desktop**
 
-
-
 <hr>
 
 **2.3 Manual testing tablet**
-
 
 <hr>
 
